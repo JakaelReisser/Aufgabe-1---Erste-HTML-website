@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang=de>
+
+<head>
+<meta charset="utf-8">
+<meta name="author" content="Yannik Cunha" />
+<meta name="keyword" content="meta, html, web, media, studies" />
+<meta name="description" content="Ich habe eben meinen ganzen Fortschritt gelöscht und versuche erneut meine erste Seite zu bauen" />
+</head>
+
+<body>
